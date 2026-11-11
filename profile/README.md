@@ -7,6 +7,10 @@ Otvorena istraživačko-razvojna inicijativa za digitalne jezičke resurse, govo
 **Nosioci:** Kolektiv d.o.o. (Jelah) · Gamatrade d.o.o. (Usora)
 **Kontakt:** xnetba@gmail.com
 **Modeli i dataseti:** https://huggingface.co/BH-Language-AI
+**Board:** https://github.com/orgs/BH-Language-AI/projects/1
+
+## In English
+Open R&D initiative for digital language resources, speech technologies, language models and AI infrastructure for the **Bosnian language**. Led by Kolektiv d.o.o. × Gamatrade d.o.o. (BiH). Full charter: `PROJECT_CHARTER_EN.md`. External resources are referenced, never copied; every dataset carries provenance and license.
 
 ## Oblasti
 - 🎙️ Speech — ASR, govorni korpus, TTS
