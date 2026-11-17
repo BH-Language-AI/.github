@@ -14,6 +14,7 @@ Open R&D initiative for digital language resources, speech technologies, languag
 
 ## Oblasti
 - 🎙️ Speech — ASR, govorni korpus, TTS
+- 👁️ Vision — VLM, OCR, dokumenti, chartovi ([bh-vision](https://github.com/BH-Language-AI/bh-vision) · [HF kolekcija](https://huggingface.co/collections/BH-Language-AI/bh-vision))
 - 📊 Benchmarks — ASR, LLM, prevod, OCR, NLP
 - 📚 Jezički resursi — korpusi, leksikoni, terminologija
 - 🧠 Jezički modeli — embeddings, reranker, prevod, LLM, NER
